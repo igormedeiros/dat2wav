@@ -1,0 +1,14 @@
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Miscellaneous
+*.wav
+*.dat
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
